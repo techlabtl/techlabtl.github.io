@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: this will be TECHLAB's website
+title: TECHLAB
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
@@ -19,7 +19,7 @@ colors:  #in hex code if not noted else
   link: "#428bca"
   link_hover: "#01b2fe"
   footer_heading: "#f2c5796"
-  footer_content: "#bfc9d3"
+  footer_content: "#d4d4d4"
 
 # Making projects separate from posts
 collections:
@@ -34,15 +34,15 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
+  - #title: dribbble
     url:
   - title: facebook
     url: https://www.facebook.com/techlabtl/?ref=bookmarks
   - title: twitter
+    url: https://twitter.com/techlabtl
+  - #title: instagram
     url:
-  - title: instagram
-    url:
-  - title: tumblr
+  - #title: tumblr
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
@@ -112,6 +112,6 @@ about: "Un Techlab amico mio."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    message: 
     author: Marcel Newman
     position: WEB DESIGNER - BLACKTIE.CO
