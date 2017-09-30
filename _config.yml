@@ -40,8 +40,7 @@ social:
     url: https://twitter.com/techlabtl
   - title: behance
     url: https://www.behance.net/Techlab
-  - #title: tumblr
-    url:
+
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
@@ -106,10 +105,10 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Un Techlab amico mio."
+about: "Un idea vi tracina, ciò basta."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
     message:
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    author:
+    position:
