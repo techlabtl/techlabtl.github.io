@@ -34,14 +34,12 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - #title: dribbble
-    url:
   - title: facebook
-    url: https://www.facebook.com/techlabtl/?ref=bookmarks
+    url: https://www.facebook.com/techlabtl
   - title: twitter
     url: https://twitter.com/techlabtl
-  - #title: instagram
-    url:
+  - title: behance
+    url: https://www.behance.net/Techlab
   - #title: tumblr
     url:
 
@@ -112,6 +110,6 @@ about: "Un Techlab amico mio."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: 
+    message:
     author: Marcel Newman
     position: WEB DESIGNER - BLACKTIE.CO
