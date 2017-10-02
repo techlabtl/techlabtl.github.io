@@ -16,7 +16,7 @@ colors:  #in hex code if not noted else
   primary: "#ffffff" #"#F70031"
   primary_rgb: "44,87,150" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#4ea751" #"#33004D"
-  link: "#428bca"
+  link: "#ffa340"
   link_hover: "#01b2fe"
   footer_heading: "#f2c5796"
   footer_content: "#d4d4d4"
@@ -40,7 +40,7 @@ social:
     url: https://twitter.com/techlabtl
   - title: behance
     url: https://www.behance.net/Techlab
-
+  
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
