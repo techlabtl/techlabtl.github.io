@@ -224,12 +224,12 @@ a:focus {
 }
 
 #headerwrap h3, h5 {
-	color: #4ea751;
+	color: #2c5796;
 	font-weight: 400;
 }
 
 #headerwrap h1 {
-	color: #4ea751;
+	color: #2c5796;
 	margin-bottom: 25px;
 }
 
@@ -300,7 +300,7 @@ a:focus {
 /* Testimonials Wrap */
 #twrapback {
     background-color: {{ site.colors.primary }};
-    background-color:rgba({{ site.colors.primary_rgb }},.8);
+    background-color:rgba(78,167,81,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -393,7 +393,7 @@ a:focus {
 }
 
 #blue h3 {
-	color: #4ea751;
+	color: #2c5796;
 	margin-left: 15px;
 }
 
@@ -420,7 +420,7 @@ a:focus {
 }
 
 .ctitle {
-	color: {{ site.colors.primary }};
+	color: {{ site.colors.secondary }};
 	font-weight: 700;
 	margin-bottom: 15px;
 }

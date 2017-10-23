@@ -15,10 +15,10 @@ excerpt_separator: <!--more--> #use this in posts to define how long the excerpt
 colors:  #in hex code if not noted else
   primary: "#ffffff" #"#F70031"
   primary_rgb: "44,87,150" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#4ea751" #"#33004D"
-  link: "#f7e133"
+  secondary: "#2c5796" #"#33004D"
+  link: "#e37c02"
   link_hover: "#01b2fe"
-  footer_heading: "#f2c5796"
+  footer_heading: "#2c5796"
   footer_content: "#d4d4d4"
 
 # Making projects separate from posts

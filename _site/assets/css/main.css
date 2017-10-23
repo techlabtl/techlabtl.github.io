@@ -25,7 +25,7 @@ body {
 	background: #ffffff;
 	margin: 0;
 	height: 100%;
-	color: #4ea751;
+	color: #2c5796;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	}
@@ -42,7 +42,7 @@ p {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
-	color: #4ea751;
+	color: #2c5796;
 	margin-top: 10px;
 }
 
@@ -62,7 +62,7 @@ ol {
 }
 
 a {
-    color:#f7e133;
+    color:#e37c02;
     padding: 0;
 	margin: 0;
 	text-decoration: none;
@@ -81,12 +81,12 @@ a:focus {
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:#4ea751;
+	background:#2c5796;
 }
 ::selection {
 	color: #fff;
 	text-shadow:none;
-	background:#4ea751;
+	background:#2c5796;
 }
 
 .centered {
@@ -127,12 +127,12 @@ a:focus {
 }
 
 .navbar-default {
-	background-color: #4ea751;
+	background-color: #2c5796;
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: #4ea751;
+	background: #2c5796;
 }
 
 .dropdown-menu > li > a {
@@ -143,8 +143,8 @@ a:focus {
 
 .btn-theme {
   color: #fff;
-  background-color: #4ea751;
-  border-color: #4ea751;
+  background-color: #2c5796;
+  border-color: #2c5796;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -204,7 +204,7 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid #4ea751;
+	border-bottom: 2px solid #2c5796;
 }
 
 .hline-w {
@@ -224,12 +224,12 @@ a:focus {
 }
 
 #headerwrap h3, h5 {
-	color: #4ea751;
+	color: #2c5796;
 	font-weight: 400;
 }
 
 #headerwrap h1 {
-	color: #4ea751;
+	color: #2c5796;
 	margin-bottom: 25px;
 }
 
@@ -244,7 +244,7 @@ a:focus {
 }
 
 #service i {
-	color: #4ea751;
+	color: #2c5796;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -300,7 +300,7 @@ a:focus {
 /* Testimonials Wrap */
 #twrapback {
     background-color: #ffffff;
-    background-color:rgba(44,87,150,.8);
+    background-color:rgba(78,167,81,.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -358,7 +358,7 @@ a:focus {
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: #4ea751;
+	background: #2c5796;
 }
 
 #footerwrap p {
@@ -393,7 +393,7 @@ a:focus {
 }
 
 #blue h3 {
-	color: #4ea751;
+	color: #2c5796;
 	margin-left: 15px;
 }
 
@@ -420,7 +420,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #ffffff;
+	color: #2c5796;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
