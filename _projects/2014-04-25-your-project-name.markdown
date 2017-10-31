@@ -6,6 +6,7 @@ author: Marcel Newman
 categories:
 - project
 img: portfolio_01.jpg
+thumb: thumb02.jpg
 carousel:
 - single01.jpg
 - single02.jpg
