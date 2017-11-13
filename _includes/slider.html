@@ -1,0 +1,20 @@
+    <div id="slider">
+   <img src="/bower_components/ideal-image-slider/example/img/1.jpg" alt="alt text 1">
+   <a href="/page/url"><img src="/bower_components/ideal-image-slider/example/img/2.jpg" alt="alt text 2"></a>
+   <a href="http://example.com"><img src="/bower_components/ideal-image-slider/example/img/3.jpg" alt="alt text 3"></a>
+ </div>
+
+
+
+ <script src="/bower_components/ideal-image-slider/ideal-image-slider.js"></script>
+<script src="/bower_components/ideal-image-slider/extensions/bullet-nav/iis-bullet-nav.js"></script>
+
+
+<script>
+var slider = new IdealImageSlider.Slider({
+  selector: '#slider',
+  height: '16:9'
+});
+slider.addBulletNav();
+slider.start();
+</script>
