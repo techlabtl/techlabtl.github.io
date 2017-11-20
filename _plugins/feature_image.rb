@@ -18,7 +18,7 @@ module Jekyll
       image_path =  "/" << image_path if !image_path.start_with?("/")
 
       image_path.nil? ? "" : "<img src='#{image_path}' title='' alt=''/>"
-     
+
     end
   end
 end
