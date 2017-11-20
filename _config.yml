@@ -106,3 +106,6 @@ clients:
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Un idea vi tracina, ciò basta."
+
+image_folder: "assets/img"
+default_feature_image: "assets/img/2.jpg"
