@@ -419,6 +419,11 @@ a:focus {
   border-radius: 10px;
 }
 
+quote {
+	font-size: 13px;
+	color: #77685f;
+}
+
 .ctitle {
 	color: #2c5796;
 	font-weight: 700;
